@@ -1,4 +1,4 @@
-* criando variaveis em CSS*/
+
 
 :root {
     --cor-primaria: #000000;
@@ -110,4 +110,9 @@ body{
     font-family: var(--fonte-secundaria);
     font-size: 24px;
     font-weight: 400;
+}
+
+#insta{
+    width: 30px;
+    height: 30px;
 }
